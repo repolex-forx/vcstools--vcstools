@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/vcstools/vcstools/commit/5c9bbccbe68e331fe4e04a701830ef467bd6a763",
       "git:hexsha": "5c9bbccbe68e331fe4e04a701830ef467bd6a763",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T23:30:09.227679+00:00"
     },
     {
       "@id": "https://repolex.ai/r/vcstools/vcstools/commit/3863e3023d286454c9dfacfea1aea5cc0d69cb66",
